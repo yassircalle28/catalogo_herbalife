@@ -1,0 +1,8 @@
+- [ ] Catálogo y tarjetas
+- [ ] Filtros y búsqueda
+- [ ] Paginación
+- [ ] Favoritos
+- [ ] Detalles de producto
+- [ ] Modo claro/oscuro
+- [ ] Responsive y ausencia de scroll
+- [ ] PWA y modo offline
